@@ -1,0 +1,19 @@
+body {
+font-family: Arial, serif;
+text-align: center;
+background-image: url("http://2.bp.blogspot.com/-xJaJPnveXag/TguyzbeR08I/AAAAAAAAIlY/CD8eMqc0M_I/s1600/bg.jpg");
+background-size: cover;
+}
+h4 {
+color: #663366;
+}
+
+#footer
+{
+	font-size: 4em;
+}
+.gallery {
+  display: flex;
+  
+  margin-top: 20px;
+}
